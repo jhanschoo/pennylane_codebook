@@ -1,0 +1,9 @@
+name: pennylane
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pennylane-lightning-gpu
