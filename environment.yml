@@ -7,3 +7,7 @@ channels:
 dependencies:
   - ipykernel
   - pennylane-lightning-gpu
+  - aiohttp
+  - h5py
+  - fsspec
+  - pandas
